@@ -1,0 +1,11 @@
+﻿2022-04-29 20:26:44.1343|DEBUG|Nloger.NLog|Debug Successfull : Sum()
+2022-04-29 20:26:44.1524|ERROR|Nloger.NLog|Expecting null values
+2022-04-29 20:26:44.1524|WARN|Nloger.NLog|a or b should not equal to 0
+2022-04-29 20:26:44.1524|DEBUG|Nloger.NLog|Debug Successfull : Sum()
+2022-04-29 20:26:44.1524|INFO|Nloger.NLog|Sum method passed, Result:- 1
+2022-04-29 20:28:01.4518|DEBUG|Nloger.NLog|Debug Successfull : Sum()
+2022-04-29 20:28:01.4685|INFO|Nloger.NLog|Sum method passed, Result:- 3
+2022-04-30 00:01:16.4262|DEBUG|Nloger.NLog|Debug Successfull : Sum()
+2022-04-30 00:01:16.4469|INFO|Nloger.NLog|Sum method passed, Result:- 3
+2022-04-30 00:01:43.0110|DEBUG|Nloger.NLog|Debug Successfull : Sum()
+2022-04-30 00:01:43.0191|INFO|Nloger.NLog|Sum method passed, Result:- 3
